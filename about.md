@@ -8,4 +8,4 @@ More than alert(1)
 
 ### Contact me
 
-[email@domain.com](mailto:mrhydevil@protonmail.com)
+[mrhydevil@protonmail.com](mailto:mrhydevil@protonmail.com)
